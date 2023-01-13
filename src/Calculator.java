@@ -8,7 +8,7 @@ public class Calculator {
         int firstNumber = scanner.nextInt();
         System.out.println("Please type second number and press Enter.");
         int secondNumber = scanner.nextInt();
-        System.out.println("Please type third float number for division");
+        System.out.println("Please type third float number for division and press Enter");
         float thirdNumber = scanner.nextFloat();
 
         int addition = firstNumber + secondNumber;
