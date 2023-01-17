@@ -11,7 +11,7 @@ public class Student {
     }
 
     public void zalogujSie() {
-        System.out.println("Loguj za pomocą " + nick);
+        System.out.println("Loguj za pomocą: " + nick);
     }
 
     public void podajNrIndeksu() {
