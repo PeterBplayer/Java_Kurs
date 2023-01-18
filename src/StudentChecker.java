@@ -2,6 +2,10 @@
 //Przejdź  przez studentów w tablicy i wywołaj wszystkie cztery metody.
 public class StudentChecker {
     public static void main(String[] args) {
+//Przykład pola statycznego
+        String uczelnia = Student.nazwaUczelni;
+//Przykład metody statycznej
+        Student.infoUczelnia();
 //Stworzenie 3 obiektów i przypisanie wartości do pól.
         Student harry = new Student();
         harry.imie = "Harry";

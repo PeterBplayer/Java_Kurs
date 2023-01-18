@@ -5,6 +5,13 @@ public class Student {
     public String nick;
     public String email;
     public int nrIndeksu;
+    public static String nazwaUczelni = "Hogwarts School of Magic and Wizardry"; //Pole statyczne charakterystyczne dla klasy,
+
+    // nieunikalne dla każdego obiektu
+    public static void infoUczelnia() {
+        System.out.println("My school is " + nazwaUczelni);
+    } //Metoda statyczna charakterystyczna dla klasy,
+    // można ją wywołać bez tworzenia obiektu danej klasy
 
     public void przedstawSie() {
         System.out.println("Nazywam się " + imie + " " + nazwisko);
@@ -21,4 +28,6 @@ public class Student {
     public void podajEmail() {
         System.out.println("Email to: " + email);
     }
+
+
 }
