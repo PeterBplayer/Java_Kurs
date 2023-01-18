@@ -1,3 +1,5 @@
+package Podstawy;
+
 //Umożliwiają wykonanie podstawowych operacji matematycznych
 public class OperatoryMatematyczne {
 

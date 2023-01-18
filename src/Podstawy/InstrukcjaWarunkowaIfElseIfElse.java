@@ -1,3 +1,5 @@
+package Podstawy;
+
 import java.util.Scanner;
 
 //Instrukcja warunkowa "if elseif else" pozwala sprawdzić wiele warunków które ma wykonać program w momencie ich spełnienia

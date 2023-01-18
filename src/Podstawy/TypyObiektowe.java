@@ -1,3 +1,5 @@
+package Podstawy;
+
 //Przechowują aktualną wartość oraz umożliwiają wykonanie akcji (wywołanie metod) na tych danych
 public class TypyObiektowe {
     public static void main(String[] args) {

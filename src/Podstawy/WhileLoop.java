@@ -1,3 +1,5 @@
+package Podstawy;
+
 // Petla while - najpierw sprawdzany jest warunek (tutaj zmienna ma być mniejsza niż 20),
 // następnie wykonywana jest instrukcja w bloku while: wypisywany jest kod i przypisanie wartości zmiennej o +1.
 public class WhileLoop {

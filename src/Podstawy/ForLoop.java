@@ -1,3 +1,5 @@
+package Podstawy;
+
 import java.util.Scanner;
 
 //Umożliwia cykliczne wykonywanie ciągu instrukcji określoną liczbę razy.

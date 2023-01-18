@@ -1,3 +1,5 @@
+package Podstawy;
+
 import java.util.Scanner;
 
 // Można zastąpić dzięki tej funkcji instrukcję Else if

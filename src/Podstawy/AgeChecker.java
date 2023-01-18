@@ -1,3 +1,5 @@
+package Podstawy;
+
 import java.util.Scanner;
 
 /*Zapytaj użytkownika o wiek.

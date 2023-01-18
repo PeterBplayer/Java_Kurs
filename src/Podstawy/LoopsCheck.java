@@ -1,3 +1,5 @@
+package Podstawy;
+
 public class LoopsCheck {
     public static void main(String[] args) {
 //Wypisz liczby z zakresu 1-100 podzielne przez 3

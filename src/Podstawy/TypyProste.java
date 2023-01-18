@@ -1,3 +1,5 @@
+package Podstawy;
+
 //Zawierają tylko "surowe dane"
 public class TypyProste {
     //Liczby stałoprzecinkowe

@@ -1,3 +1,5 @@
+package Podstawy;
+
 import java.util.Scanner;
 
 //Instrukcja warunkowa "if else" pozwala nam określić, które części kodu mają zostać wykonane, gdy zostanie spełniony warunek

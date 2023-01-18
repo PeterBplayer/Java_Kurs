@@ -1,3 +1,5 @@
+package Podstawy;
+
 import java.util.Scanner;
 
 //Porównują elementy równania i zwracają logiczną wartość typu boolean (true/false)

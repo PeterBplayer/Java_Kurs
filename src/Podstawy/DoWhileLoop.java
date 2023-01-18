@@ -1,3 +1,5 @@
+package Podstawy;
+
 // Pętla do while - najpierw wykonywana jest instrukcja w bloku do, a następnie sprawdzany jest warunek
 public class DoWhileLoop {
     public static void main(String[] args) {

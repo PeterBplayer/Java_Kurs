@@ -1,3 +1,5 @@
+package Podstawy;
+
 import java.util.Scanner;
 
 //Działają na wartościach logicznych zwracając również wartość logiczną typu boolean (true/false)

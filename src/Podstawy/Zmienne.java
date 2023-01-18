@@ -1,3 +1,5 @@
+package Podstawy;
+
 //Zarezerwowane miejsce w pamięci z określonym typem danych
 public class Zmienne {
 
