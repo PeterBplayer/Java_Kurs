@@ -11,8 +11,10 @@ public class MathTeacher extends Person {
         System.out.println("Jestem w konstruktorze MATHTEACHER");
         this.school = school;
     }
-//    Method overwriting
-    public void walk(){
+
+    //    Method overwriting
+    public void walk() {
+        super.walk(); // zostanie wywołana metoda z klasy PERSON
         System.out.println("I walk very fast.");
     }
 
