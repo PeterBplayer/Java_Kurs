@@ -1,6 +1,8 @@
+package Klasy_i_objekty;
+
 public class UserObject {
     public static void main(String[] args) {
-//        User user = new User();
+//        Klasy_i_objekty.User user = new Klasy_i_objekty.User();
 
         User user = new User("Kinga", "12345");
 

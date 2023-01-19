@@ -1,3 +1,5 @@
+package Klasy_i_objekty;
+
 public class User {
     public String userName;
     public String password;

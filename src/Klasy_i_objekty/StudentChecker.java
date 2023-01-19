@@ -1,4 +1,6 @@
-//Stwórz 3 obiekty klasy Student. Przypisz wartości do pól. Stwórz tablicę z dodaj studentów do tablicy.
+package Klasy_i_objekty;
+
+//Stwórz 3 obiekty klasy Klasy_i_objekty.Student. Przypisz wartości do pól. Stwórz tablicę z dodaj studentów do tablicy.
 //Przejdź  przez studentów w tablicy i wywołaj wszystkie cztery metody.
 public class StudentChecker {
     public static void main(String[] args) {

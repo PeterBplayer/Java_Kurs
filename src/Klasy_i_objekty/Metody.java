@@ -1,7 +1,9 @@
+package Klasy_i_objekty;
+
 //Metoda -  blok, który zawiera jakieś instrukcje. Może być uruchomiona (wywołana) poprzez odwołanie się do jej nazwy()
 public class Metody {
     //    public - identyfikator dostępu
-//    void - typ(np. int, String, Student, void) w tym przypadku nasza metoda nie zwraca żadnej konkretnej wartości
+//    void - typ(np. int, String, Klasy_i_objekty.Student, void) w tym przypadku nasza metoda nie zwraca żadnej konkretnej wartości
 //    nazwa metody -  konwencja camelCase
     public void pobierzWynik() {
         System.out.println("Zaraz pobiorę wynik...");

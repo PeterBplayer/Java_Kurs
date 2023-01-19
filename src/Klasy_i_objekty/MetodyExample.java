@@ -1,3 +1,5 @@
+package Klasy_i_objekty;
+
 public class MetodyExample {
     public static void main(String[] args) {
         Metody metody = new Metody();

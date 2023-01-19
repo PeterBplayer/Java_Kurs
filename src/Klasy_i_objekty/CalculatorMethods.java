@@ -1,3 +1,5 @@
+package Klasy_i_objekty;
+
 public class CalculatorMethods {
     public float add(float var1, float var2) {
         return var1 + var2;

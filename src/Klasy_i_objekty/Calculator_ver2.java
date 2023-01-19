@@ -1,3 +1,5 @@
+package Klasy_i_objekty;
+
 import java.util.Scanner;
 
 public class Calculator_ver2 {

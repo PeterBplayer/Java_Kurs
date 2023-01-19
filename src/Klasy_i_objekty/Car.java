@@ -1,3 +1,5 @@
+package Klasy_i_objekty;
+
 //Klasa to taki szablon/foremka dzięki której można tworzyć obiekty, które są przedstawicielami danej klasy.
 public class Car {
     //    Pola(Field) - coś jak cechy
@@ -18,7 +20,7 @@ public class Car {
         this.info();
     }
 
-    //    Metody(Methods) - coś jak zachowanie
+    //    Klasy_i_objekty.Metody(Methods) - coś jak zachowanie
     public void jedz() {
         System.out.println("Jadę!");
     }

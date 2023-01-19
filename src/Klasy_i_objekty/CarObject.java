@@ -1,6 +1,8 @@
+package Klasy_i_objekty;
+
 public class CarObject {
     public static void main(String[] args) {
-//        Tworzymy obiekt klasy Car z pomocą domyślnego konstruktora
+//        Tworzymy obiekt klasy Klasy_i_objekty.Car z pomocą domyślnego konstruktora
 //        Mercedes
         Car mercedes = new Car();
         mercedes.marka = "Mercedes";
@@ -22,7 +24,7 @@ public class CarObject {
         audi.jedz();
         audi.hamuj();
 
-//        Tworzymy obiekt za pomocą kontruktora z parametrami
+//        Tworzymy obiekt za pomocą konstruktora z parametrami
         Car toyota = new Car("Toyota", "Auris", 2022, 36);
         toyota.jedz();
         toyota.hamuj();

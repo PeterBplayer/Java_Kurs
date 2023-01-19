@@ -1,3 +1,5 @@
+package Klasy_i_objekty;
+
 public class Student {
 
     public String imie;
