@@ -11,6 +11,10 @@ public class Footballer extends Person {
         System.out.println("Jestem w konstruktorze FOOTBALLER");
         this.footballClub = footballClub;
     }
+//    Method overwriting
+    public void eat() {
+        System.out.println("I am on diet.");
+    }
 
     public void playFootball() {
         System.out.println("I am playing football for " + footballClub);

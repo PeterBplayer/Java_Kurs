@@ -9,6 +9,10 @@ public class MathTeacher extends Person {
         System.out.println("Jestem w konstruktorze MATHTEACHER");
         this.school = school;
     }
+//    Method overwriting
+    public void walk(){
+        System.out.println("I walk very fast.");
+    }
 
     public void teachMath() {
         System.out.println("I am teaching math in " + school);
