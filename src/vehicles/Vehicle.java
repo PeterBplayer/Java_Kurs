@@ -1,3 +1,5 @@
+package vehicles;
+
 public interface Vehicle {
     void ride(int speed);
 

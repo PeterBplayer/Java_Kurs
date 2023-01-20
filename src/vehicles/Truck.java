@@ -1,3 +1,5 @@
+package vehicles;
+
 public class Truck implements Vehicle{
     @Override
     public void ride(int speed) {
@@ -11,6 +13,6 @@ public class Truck implements Vehicle{
 
     @Override
     public String info() {
-        return "Truck";
+        return "vehicles.Truck";
     }
 }

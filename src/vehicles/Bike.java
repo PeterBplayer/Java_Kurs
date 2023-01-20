@@ -1,3 +1,5 @@
+package vehicles;
+
 public class Bike implements Vehicle {
 
     @Override
@@ -12,6 +14,6 @@ public class Bike implements Vehicle {
 
     @Override
     public String info() {
-        return "Bike";
+        return "vehicles.Bike";
     }
 }
