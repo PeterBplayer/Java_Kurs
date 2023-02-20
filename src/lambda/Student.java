@@ -1,4 +1,4 @@
-//Interfejs funkcjonalny, posiada w sobie tylko jedną metodę
+//Interfejs funkcjonalny posiada w sobie tylko jedną metodę
 package lambda;
 @FunctionalInterface
 public interface Student {
